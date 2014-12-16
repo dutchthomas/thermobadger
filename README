@@ -1,0 +1,13 @@
+Authors:
+	Thomas Zwaagstra <tzwaa001@ucr.edu>
+	Nicholas Gingeralla <nging001@ucr.edu>
+
+To build:
+
+	make
+
+To clean:
+
+	make clean
+
+
